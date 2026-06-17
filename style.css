@@ -835,6 +835,7 @@ body {
     height: auto;
     margin-bottom: 20px;
     position: relative;
+    border:none
     z-index: 1; 
   }
 
