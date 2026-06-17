@@ -6,6 +6,10 @@ A personal portfolio website for showcasing my work, skills, services, and conta
 
 This is a responsive single-page portfolio built with HTML, CSS, and JavaScript. It includes sections for home, about, projects, services, contact information, and social links.
 
+# Portfolio Website
+
+🔗 Live Demo: https://kartik-shukla.netlify.app/#
+
 ## Features
 
 - Responsive portfolio layout
